@@ -1,30 +1,22 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio : <a target="_blank" href="https://alisonherrera.com">Visit Here</a>
+
+<a target="_blank" href="https://alisonherrera.com/">
+<!--<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true" width="100%" alt="Portfolio"/>
+</a>-->
+
+### Portfolio Site including links to my projects and ways to get in contact with me.
+
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+My learning was focused on making a simple UI and a smooth UX. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Optimizations
 
-(* = not included)
+When I improve this project, I would start by adding javascript to add gifs to front page to better showcase my projects.
 
-AJ
-aj@lkn.io | @ajlkn
+## Lessons Learned:
+
+Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
