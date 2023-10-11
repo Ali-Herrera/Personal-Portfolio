@@ -1,6 +1,4 @@
-# Portfolio : <a target="_blank" href="https://alisonherrera.com">Visit Here</a>
-
-<a target="_blank" href="https://alisonherrera.com/">
+# Portfolio-2021 : <a target="_blank" href="https://alisonherrera.com">Visit Here</a>
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
 
@@ -11,10 +9,12 @@ My learning was focused on making a simple UI and a smooth UX.
 
 ## Optimizations
 
-When I improve this project, I would start by adding javascript to add gifs to front page to better showcase my projects.
+When I improve this project, I would start by updating some javascript to add gifs to front page. I would also perform an accessibility audit and make necessary edits to improve accessibility of the website.
 
 ## Lessons Learned:
 
 Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
+
+
 
 
